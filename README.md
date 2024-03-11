@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Urja Shah 
+- 👀 I’m interested in learning new things everyday.
+- 🌱 I’m currently learning C/C++, Java, Python, HTML/CSS/JS.
+- 💞️ I’m looking to collaborate as a Frontend Developer.
+- 📫 You can Contact me via Email & Linkdein.
